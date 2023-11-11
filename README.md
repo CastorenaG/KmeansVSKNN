@@ -15,7 +15,7 @@ Este repositorio contiene un script en Python para analizar un conjunto de datos
 
 3. **Ejecutar el Script:**
    ```bash
-   python algpritmos.py
+  algoritmos.py
 
 ### Archivos del Proyecto
 
